@@ -12,6 +12,7 @@ struct islam_GithubApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
         }
     }
 }
